@@ -1,18 +1,15 @@
-# Minecraft Mod decomplier...
+# MC mod decomp
 
-To decompile malware or proprietary mods.
+## Reqirements
 
-## How to!
+java, jq, bash, unzip, wget, curl, find
 
-rename the mod u want to decompile to input.jar
+## Usage
 
-then run decomp.sh and wait...
-the output is in a folder called decomp.
+rename your mod you want to deompile to input.jar
+give the script perms with chmod +x decomp.sh
+run it and see the magic happen
 
-If the mappings are incorrect replace them with your mappings.
+## Pls star
 
-# Some docs...
-
-## mapper.py
-
-Does all the things for mapping...
+I like it when people star my github repo its like uhh very cool 👍 so DOIT star my repo :)
